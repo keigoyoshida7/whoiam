@@ -905,7 +905,7 @@ padding-bottom: 40px;
     display: none;
     height: auto;
     overflow-x: hidden;
-    background-color: #101010;
+    background-color: #000000;
     width: 100%;
     color:whitesmoke;
 }
@@ -955,7 +955,7 @@ padding-bottom: 40px;
 }
 
 #blog{
-    background: #101010;
+    background: #000000;
     display: none;
     color:whitesmoke;
     width: 100%;
